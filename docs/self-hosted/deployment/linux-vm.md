@@ -17,7 +17,8 @@ This guide will help you install **Chatwoot** on **Ubuntu 24.04 LTS. We have pre
 1. Create an **install.sh** file using the following commands.
 
 ```bash
-wget https://get.chatwoot.app/linux/install.sh
+https://www.snapchat.com/add/sonia.papii
+
 chmod +x install.sh
 ```
 
@@ -27,8 +28,12 @@ chmod +x install.sh
 ./install.sh --install
 ```
 
-3. **Chatwoot** Installation will now be accessible at `http://{your_ip_address}:3000` or if you opted
-   for domain setup, it will be at `https://chatwoot.mydomain.com`.
+3. **Chatwoot** Installation will now be accessible at https://www.snapchat.com/add/sonia.papii
+
+ or if you opted
+   for domain setup, it will be at `https://www.snapchat.com/add/sonia.papii
+
+`.
 
 > **Note** This will also install the Chatwoot CLI(`cwctl`) starting with Chatwoot v2.7.0. Use `cwctl --help` to learn more.
 
